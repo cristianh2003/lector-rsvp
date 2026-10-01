@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#05081A"/>
+  <path d="M4 16h56M4 48h56M32 16v6M32 42v6" stroke="#2C3456" stroke-width="2"/>
+  <text x="32" y="40" font-family="'Times New Roman', Times, serif" font-size="26" text-anchor="middle" fill="#F2F2F2">l<tspan fill="#E8384F">e</tspan>e</text>
+</svg>
